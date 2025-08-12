@@ -13,13 +13,13 @@ BOT_TOKEN = "7865291325:AAG7XG7cqBzSziaVEyr4jW2K6sKEety7yKA"
 
 BOT_ID = 7865291325
 
-BOT_USERNAME = "@TsunadeXprobot"
+BOT_USERNAME = "@AroraXprobot"
 
 OWNER_USERNAME = "@kazuki_8"
 
-BOT_NAME = "𝙏𝙨𝙪𝙣𝙖𝙙𝙚 𝙈𝙪𝙨𝙞𝙘 ✨️"
+BOT_NAME = "𝗔𝗹𝘆𝗮 𝗔𝗿𝗼𝗿𝗮 🌻"
 
-ASSUSERNAME = "@alyaassistantt"
+ASSUSERNAME = "@TsundaekaAssistant"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -66,7 +66,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "BQF5P4MAdrNSTH7cEInvMV6LgPKWcwbAqFYT8sX_S5TN3gTH_kTL7oc8n5FakAab_eUOhI6KsMhkFyG5oXJ7FzftJVGvxkvKDQedruXVmEQFudLFWyxS2KaT8Om6wgxkiZ4Fn-Hil5JPQSpsutCxYrlAmEZuryvz7TY4zfpScSVzgUA5igSrNuyyOr1YeRhubxT_9aT8w59ywBn5E3zhl1gpef0bq9FxpON19CNfgCNXeN9F5yC2hk5GbLDINUusCyD553l7C14TR3Ez0DBk5GdhdQCK2PnLOkGgQZ6L32h6nr3z5OquuZA8KUqJK1090JSnGsLPsriLMXZ65ChlyA6eAqIBVwAAAAHRp1oMAA")
+STRING1 = getenv("STRING1", "BQGWmGwApP1oFlmrQZRjhl9viustIz3obUEV-veqLNoi2CR8fhnZv67uyBiVxL3WYsNTfWjKbdKPMZe9jTG65JMg-8zFMzCOyrGOjYvYA7UVsVTUjRqCwkzmPU4doiqAasmwAe-HY2SSGoCdWnyTDSegdY4txPXeQj0pwVgzrI7kpR-FjjCijlO16C6hYg1RE7Pi2hemRaEtKEQhzv9xQEGWzcd4Bu2iDvCwhifcCXWYx0XiI49ggqdzoR_vvwtj3CRkuKLl2_hQlrkQalN1wVqqHNE6-jHURT35cUMljOmTevhPm22pe8ckmGPTpXeFX4Q04e6TpIXLnr_iNq8jnDWJddYKfgAAAAHgogBgAA")
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
